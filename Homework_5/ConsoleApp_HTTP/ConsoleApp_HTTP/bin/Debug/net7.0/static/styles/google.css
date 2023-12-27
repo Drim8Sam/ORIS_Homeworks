@@ -1,0 +1,233 @@
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 320px;
+}
+.logo{
+    display: flex;
+    align-self: flex-end;
+
+}
+.header{
+    display: flex;
+    justify-content: flex-end;
+    height: 48px;
+
+
+}
+.links{
+    display: flex;
+    align-content: center;
+}
+
+.mail{
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+}
+.picture{
+    display: flex;
+    margin-right: 10px;
+    align-items: center;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 14px;
+}
+
+.sign-in-apps{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 168px;
+    height: 48px;
+}
+
+.account{
+    display: flex;
+    align-items: center;
+    width: 96px;
+    height: 36px;
+    text-decoration: none;
+
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    background-color: #1a73e8;
+    color:aliceblue;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 8px;
+
+}
+.sign-in{
+    display: flex;
+    justify-content: center;
+    padding: 9px 23px;
+
+    letter-spacing: .25px;
+    line-height: 16px;
+    margin-left: 3px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+
+.apps{
+    display: flex;
+    outline: none;
+
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.logo-apps{
+    display: flex;
+    height: 24px;
+    width: 24px;
+    align-content: center;
+    justify-content: center;
+
+
+}
+
+.input-text{
+
+    display: flex;
+    z-index: 3;
+    min-height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 15px auto;
+    width: 638px;
+    width: auto;
+    max-width: 584px;
+
+}
+.input-text-icon{
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 14px;
+}
+
+.find-icon{
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -3px;
+    height: 46px;
+
+}
+.find-icon-span{
+    height: 20px;
+    line-height: 20px;
+    width: 20px;
+    margin-top: 3px;
+    color: #9aa0a6;
+
+}
+
+.input-area{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    margin: 10px 0 12px 0;
+
+    align-items: center;
+
+}
+.find{
+    font-family: 'Roboto', sans-serif;
+    line-height: 24px;
+    margin-bottom: 8px;
+    width: 60%;
+    overflow-x: hidden;
+    resize: none;
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+
+    cursor: text;
+    font-size: 16px;
+    flex: 100%;
+
+
+}
+.addition-icons{
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: -5px;
+    align-items: stretch;
+    flex-direction: row;
+    height: 44px;
+}
+.keyboard-icon{
+    flex: 1 0 auto;
+    display: flex;
+    align-items: center;
+    background: transparent;
+    padding: 0 8px;
+    width: 24px;
+    line-height: 44px;
+    margin-top: 10px;
+
+}
+.find-to-photo-icon{
+    flex: 1 0 auto;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 0 8px;
+    width: 24px;
+    line-height: 44px;
+}
+.find-to-photo{
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+.button1{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
