@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DotGame/1.0.0": {
+        "dependencies": {
+          "GameModels": "1.0.0"
+        },
+        "runtime": {
+          "DotGame.dll": {}
+        }
+      },
+      "GameModels/1.0.0": {
+        "runtime": {
+          "GameModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
